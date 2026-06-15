@@ -7,3 +7,5 @@
 @import "./ultilidades/componentes.css";
 @import "./ultilidades/Tipografia.css";
 @import "./ultilidades/cores.css";
+/* Bicicletas */
+@import "./bicicletas/bicicletas-listas.css"
