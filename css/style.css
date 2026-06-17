@@ -16,4 +16,5 @@
 @import "./ultilidades/Tipografia.css";
 @import "./ultilidades/cores.css";
 /* Bicicletas */
-@import "./bicicletas/bicicletas-listas.css"
+@import "./bicicletas/bicicletas-listas.css";
+@import "./bicicletas/bicicletas.css";
